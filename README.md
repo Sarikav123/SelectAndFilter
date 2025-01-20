@@ -1,4 +1,4 @@
-<img width="761" alt="image" src="https://github.com/user-attachments/assets/31eecc8a-7b89-4bc4-a350-756de78adc1b" /># SelectAndFilter
+
 Exploring SQL queries with SELECT, WHERE clauses, and constraints using Country and Persons tables.
 A hands-on project to explore SQL queries, focusing on SELECT statements, WHERE clauses, and constraints. Includes tasks like filtering data, handling NULL values, and working with multiple tables (Country and Persons) to practice real-world database operations
 1. Create two tables
